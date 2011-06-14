@@ -1,7 +1,7 @@
 #summary about python-jewels
 = Introduction =
 
-collection of small, interesting python programs from [arkapravobhaumik@gmail.com Arkapravo Bhaumik]
+collection of small, interesting python programs from Arkapravo Bhaumik
 
 
 = Details =
@@ -9,4 +9,4 @@ collection of small, interesting python programs from [arkapravobhaumik@gmail.co
 none
 
 = Links =
-http://ThePythonGameBook.com
+python-jewels will be included into http://ThePythonGameBook.com
