@@ -6,7 +6,7 @@ collection of small, interesting python programs from Arkapravo Bhaumik
 
 = Details =
 
-none
+*Interesting programs in 'plain and simple' Python !*
 
 = Links =
 python-jewels will be included into http://ThePythonGameBook.com
